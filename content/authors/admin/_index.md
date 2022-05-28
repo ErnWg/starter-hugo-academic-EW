@@ -14,7 +14,7 @@ organizations:
   url: https://www.imtlucca.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -72,7 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-Ern Wong is a first year PhD student at the IMT for Advanced Studies Lucca, Italy. His research interests include using computational modelling to investigate aberrant reward processing in antisocial individuals. He is currently supervised under Professor Pietro Pietrini.
+Hello there! I am a first year PhD student at the IMT School of Advanced Studies Lucca, supervied by Professor Pietrini. Broadly speaking, I am interested in using computational modelling to investigate aberrant reward processing in antisocial individuals (I know, Mindhunter stuff). 
 
+I am always happy to know more people and to share my experience as a graduate student in Italy! If you have any questions or would like to collaborate on anything, feel free to drop me an email :D
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
