@@ -22,27 +22,27 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: ern.wong@imtlucca.it
+  #phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
+    street: Piazza San Francesco, 19
+    city: Lucca
+    region: Tuscany
+    postcode: 55100
+    country: Italy
+    country_code: IT
+  #coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
+  #appointment_url: 'https://calendly.com'
+  #contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
