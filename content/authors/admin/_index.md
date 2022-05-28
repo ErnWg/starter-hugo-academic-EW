@@ -27,11 +27,14 @@ interests:
 education:
   courses:
   - course: PhD in Computational Cognitive and Social Neurosciences
-    institution: IMT School of Advanced Studies Lucca
+    institution: IMT School of Advanced Studies Lucca, Italy
     year: 2021 - Present
   - course: BSocSci in Psychology
-    institution: Nanyang Technological University
+    institution: Nanyang Technological University, Singapore
     year: 2017 - 2021
+  - course: University Exchange Programme
+    institution: McGill University
+    yesr: 2019
 
 
 # Social/Academic Networking
@@ -53,7 +56,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/ern-wong
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
