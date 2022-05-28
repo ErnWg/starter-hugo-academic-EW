@@ -39,11 +39,16 @@ experience:
   - title: Student Researcher 
     company: NTU Touchlab, Nanyang Technological University
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Singapore
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: ▪ Piloted a study investigating the functional relevance of the Extrastriate Body Area (EBA) on haptic object processing using TMS.
+▪ Developed the experimental protocol including the construction and testing of stimulus sets.
+▪ Conducted fMRI and TMS experiments on 3 pilot subjects.
+▪ Analysed fMRI data using SPM12 and behavioural data using Excel.
+▪ Wrote a scientific paper presenting the results of the study.
+▪ Awarded as a Highly Commended Entrant at The Global Undergraduate Awards 2020.
 
 design:
   columns: '2'
