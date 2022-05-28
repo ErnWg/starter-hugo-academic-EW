@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 widget: contact
-
+active: false
 # This file represents a page section.
 headless: true
 
@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: ern.wong@imtlucca.it
-  #phone: 888 888 88 88
+  phone: 888 888 88 88
   address:
     street: Piazza San Francesco, 19
     city: Lucca
@@ -34,15 +34,15 @@ content:
     postcode: 55100
     country: Italy
     country_code: IT
-  #coordinates:
+  coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  #office_hours:
+  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  #appointment_url: 'https://calendly.com'
-  #contact_links:
+  appointment_url: 'https://calendly.com'
+  contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
