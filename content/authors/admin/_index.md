@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-Hello there! I am a first year PhD student at the IMT School of Advanced Studies Lucca, supervied by Professor Pietrini. Broadly speaking, I am interested in using computational modelling to investigate aberrant reward processing in antisocial individuals (I know, Mindhunter stuff). 
+Hello there! I am a first year PhD student at the IMT School of Advanced Studies Lucca, supervised by Professor Pietro Pietrini. Broadly speaking, I am interested in using computational modelling to investigate aberrant reward processing in antisocial individuals (I know, Mindhunter stuff). 
 
 In my free time I enjoy playing badminton and bouldering, or lurking on Skyscanner for cheap flights.    
 
